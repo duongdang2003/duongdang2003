@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![This is an image](https://github.com/duongdang2003/Web-cv-icon/blob/main/Images/headerBackground-transparent.png)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 <!--
 **duongdang2003/duongdang2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
