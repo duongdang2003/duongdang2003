@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/duongdang2003/Web-cv-icon/blob/main/Images/headerBackground-transparent.png)
 <!--
 **duongdang2003/duongdang2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
